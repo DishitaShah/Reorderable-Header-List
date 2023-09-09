@@ -1,0 +1,90 @@
+[
+  { "foodType" : "Starters",
+    "food" : [{
+      "id" : 1,
+      "priority" : 1,
+      "foodName" : "Pasta"
+    },
+      {
+        "id" : 2,
+        "priority" : 2,
+        "foodName" : "Tacos"
+      },
+      {
+        "id" : 3,
+        "priority" : 3,
+        "foodName" : "Paneer Chilly"
+      },{
+        "id" : 4,
+        "priority" : 4,
+        "foodName" : "Enchiladas"
+      }]
+  },
+  { "foodType" : "Main Course",
+    "food" : [{
+      "id" : 5,
+      "priority" : 1,
+      "foodName" : "Sizzler"
+    }, {
+      "id" : 6,
+      "priority" : 2,
+      "foodName" : "Chinese Chop Soy"
+    }, {
+      "id" : 7,
+      "priority" : 3,
+      "foodName" : "Paneer Tikka Masala"
+
+    }, {
+      "id" : 8,
+      "priority" : 4,
+      "foodName" : "Hydrabadi Biryani"
+
+    }, {
+      "id" : 9,
+      "priority" : 5,
+      "foodName" : "Cheese Garlic Naan"
+    }, {
+      "id" : 10,
+      "priority" : 6,
+      "foodName" : "Spinach Ravioli"
+    }, {
+      "id" : 11,
+      "priority" : 7,
+      "foodName" : "Baked Corn Chilli"
+    }, {
+      "id" : 12,
+      "priority" : 8,
+      "foodName" : "Lasagne"
+    },
+      {
+        "id" : 13,
+        "priority" : 9,
+        "foodName" : "Pizza"
+      }]
+  },
+  {
+    "foodType" : "Beverages",
+    "food" : [{
+      "id" : 14,
+      "priority" : 1,
+      "foodName" : "Masala Butter Milk"
+    }, {
+      "id" : 15,
+      "priority" : 2,
+      "foodName" : "Lassi Salted"
+    }]
+  },
+  {"foodType" : "Desserts",
+    "food" : [{
+      "id" : 15,
+      "priority" : 1,
+      "foodName" : "Sizzling Brownie"
+    },{
+      "id" : 16,
+      "priority" : 2,
+      "foodName" : "Gulab Jamun"
+    }]
+  }
+
+]
+
